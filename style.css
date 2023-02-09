@@ -9,11 +9,14 @@
 body{
   min-height: 100vh;
   width: 100%;
-  background: #C1AC9C;
+  background: #EBADD1  ;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-image: url(img/contato-foto.jpg);
+  background-repeat: no-repeat;
 }
+  
 .container{
   width: 85%;
   background: #fff;
@@ -44,7 +47,7 @@ body{
   right: -15px;
   top: 50%;
   transform: translateY(-50%);
-  background: #98857E;
+  background: #EBADD1;
 }
 .content .left-side .details{
   margin: 14px;
@@ -52,7 +55,7 @@ body{
 }
 .content .left-side .details i{
   font-size: 30px;
-  color: #90562E;
+  color: #EF3FA4;
   margin-bottom: 10px;
 }
 .content .left-side .details .topic{
@@ -72,7 +75,7 @@ body{
 .content .right-side .topic-text{
   font-size: 23px;
   font-weight: 600;
-  color: #90562E;
+  color: #EF3FA4;
 }
 .right-side .input-box{
   height: 50px;
@@ -108,7 +111,7 @@ body{
   border: none;
   padding: 8px 16px;
   border-radius: 6px;
-  background: #90562E;
+  background: #EF3FA4;
   cursor: pointer;
   transition: all 0.3s ease;
 }

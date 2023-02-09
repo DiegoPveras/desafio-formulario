@@ -5,42 +5,7 @@
       "nome": "json-server",
       "email": "typicode",
       "mensagem": "adasdhal"
-    },
-    {
-      "nome": "assss",
-      "email": "sssaaaa",
-      "mensagem": "aaaaaaaaaaa",
-      "id": 11
-    },
-    {
-      "nome": "aaaaa",
-      "email": "aaaaaa",
-      "mensagem": "aaaaaaaa",
-      "id": 12
-    },
-    {
-      "nome": "Diego",
-      "email": "diegopveras02@gmail.com",
-      "mensagem": "Mensagem para o Diego",
-      "id": 13
-    },
-    {
-      "nome": "Carlos Moraes",
-      "email": "moraesvinicius_2002@hotmail.com",
-      "mensagem": "5454545454",
-      "id": 14
-    },
-    {
-      "nome": "Diego",
-      "email": "moraesvinicius_2002@hotmail.com",
-      "mensagem": "sssssssssssssss",
-      "id": 15
-    },
-    {
-      "nome": "Diego Pinheiro ",
-      "email": "moraesvinicius_2002@hotmail.com",
-      "mensagem": "4444",
-      "id": 16
     }
+   
   ]
 }

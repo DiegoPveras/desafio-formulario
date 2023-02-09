@@ -10,7 +10,7 @@ function sendEmail(destinatario) {
     secure: false, 
     auth: {
       user: "diegopveras02@gmail.com",
-      pass: "Breakfast02@"
+      pass: ""
     },
     tls: { rejectUnauthorized: false }
   });
