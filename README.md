@@ -20,6 +20,3 @@ Subindo API: ```npx json-server --watch db.json```
 
 ![image web](./assets/print-1.png)
 
-# Image do formulário responsiva para mobile
-
-![image mobile](./assets/print-2.png)
