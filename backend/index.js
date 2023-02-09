@@ -9,8 +9,13 @@ function sendEmail(destinatario) {
     port: 25,
     secure: false, 
     auth: {
+<<<<<<< HEAD
       user: "diegopveras02@gmail.com",
       pass: ""
+=======
+      user: "diegopveras@gmail.com",
+      pass: "senha"
+>>>>>>> bbb8c70dd76df6e2b754d54336b9f593a050dd2e
     },
     tls: { rejectUnauthorized: false }
   });
