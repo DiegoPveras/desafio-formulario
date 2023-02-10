@@ -18,5 +18,5 @@ Subindo API: ```npx json-server --watch db.json```
 
 # Image do formulário na web
 
-![image web](./assets/img-1.png)
+![image web](./img/img-1.png)
 

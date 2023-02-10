@@ -5,28 +5,24 @@ const nodemailer = require('nodemailer');
 function sendEmail(destinatario) {
 
   const transporter = nodemailer.createTransport({
-    host: "diegopveras02@gmail.com",
+    host: "diegopveras@gmail.com",
     port: 25,
-    secure: false, 
+    secure: false,
     auth: {
-<<<<<<< HEAD
-      user: "diegopveras02@gmail.com",
-      pass: ""
-=======
+
       user: "diegopveras@gmail.com",
       pass: "senha"
->>>>>>> bbb8c70dd76df6e2b754d54336b9f593a050dd2e
     },
     tls: { rejectUnauthorized: false }
   });
 
   const mailOptions = {
-    from: 'diegopveras02@gmail.com',
+    from: 'diegopveras@gmail.com',
     to: destinatario,
     subject: 'E-mail enviado usando Node!',
     text: 'Bem fácil, não? ;)'
   };
-  transporter.sendMail(mailOptions, function(error, info){
+  transporter.sendMail(mailOptions, function (error, info) {
     if (error) {
       console.log(error);
     } else {
